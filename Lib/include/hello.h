@@ -15,4 +15,6 @@ public:
     std::string Say(std::string message);
 };
 
+LIB_EXPORT std::string SayStandalone(std::string name, std::string message);
+
 #endif // __HELLO_H__
