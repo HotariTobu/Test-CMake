@@ -1,1 +1,1 @@
-add_target(LIB)
+add_target(LIB SHARED)
